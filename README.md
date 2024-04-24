@@ -4,5 +4,9 @@ This is a non-exhaustive list of reachable CloudFlare nameservers. Data is sourc
 
 ## Files
 
-- **ipv4_addresses.txt**
+- **ipv4.txt**: IPv4 addresses of CloudFlare nameservers.
+- **ipv6.txt**: IPv6 addresses of CloudFlare nameservers.
+- **ipv4v6.txt**: Both IPv4 and IPv6 addresses of CloudFlare nameservers.
+- **hostnames.txt**:  Hostnames of CloudFlare nameservers.
+- **shodan.json**: Raw JSON data from Shodan.
 
