@@ -1,6 +1,5 @@
 # CDN_nameservers
-This is a non-exhaustive list of reachable CDN nameservers. Data is sourced from Shodan by querying all servers with a hostname that contains *.ns.CDN.com. 
-
+This is a non-exhaustive list of reachable CDN nameservers. Data is sourced from Shodan by querying all servers with specific ASNs, that have port 53 exposed and a correspondent PTR record.
 ## Directories
 
 - akamai/: Akamai CDN nameservers.
